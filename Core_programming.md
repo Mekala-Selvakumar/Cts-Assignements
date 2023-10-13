@@ -42,7 +42,7 @@ In this assignment, you will create a Java application to manage bank accounts. 
 
 
 
-# Case Study Title: User Login Form with Validation
+# Assignment: User Login Form with Validation
 
 ## Objective:
 The objective of this case study is to create a user login form using HTML, CSS, and JavaScript. The form should have fields for username, password, and a remember me checkbox. The form should perform client-side validation, and the user's credentials should be matched with an existing users object in the code. Appropriate messages should be displayed on the same page.
