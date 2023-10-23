@@ -1,0 +1,2 @@
+-  Create an Angular application to consume the back end api created for Crypto currencies
+-  Use Bootstrap and Routing
