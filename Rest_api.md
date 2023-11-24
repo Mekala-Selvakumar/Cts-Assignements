@@ -3,6 +3,8 @@
 ## Objective
 The goal of this assignment is to build a RESTful API using Spring Boot/.Net webapi that fetches cryptocurrency data from an external API and provides endpoints for adding currencies to a Wishlist, which will be stored in an H2/MSSQL database.
 
+[CLICK HERE FOR API DOCUMENTATION](https://twelvedata.com/docs#getting-started)
+
 ## Requirements
 1. **Set up a Spring Boot project**
    - Create a new Spring Boot project/.NET web api project
